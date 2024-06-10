@@ -57,7 +57,12 @@
 
         
         <h1>Ocorrências recebidas</h1>
-    
+        <div class="search-form">
+  <input type="text" id="search-input" placeholder="Digite o nome...">
+  <button onclick="searchTable()" id="search-button">Pesquisar</button>
+
+</div>
+
         <table>
             <thead>
                 <tr>

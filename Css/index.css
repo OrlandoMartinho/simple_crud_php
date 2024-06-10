@@ -97,7 +97,7 @@ nav ul {
 
       .slide img{
         z-index: 1;
-        width: 150vh;
+        width: 150vw;
         position:relative;
         height: 80vh;
       }

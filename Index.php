@@ -18,7 +18,6 @@
             <ul>
                
                 <li class="menu-bar"><a href="Contactos.php">Contactos</a></li>
-                <li class="menu-bar"><a href="Procedimento.php">Procedimentos</a></li>
                 <li class="menu-bar"><a href="Ficha-De-Ocorrência.php">Ficha de ocorrência</a></li>
                 <li class="menu-bar"><a href="Index.php">Página inicial</a></li>
                 
@@ -28,22 +27,9 @@
 
          </nav>
          <div class="contentor">
-            <div class="slideshow-container">
-                <div class="slide">
-                  <img src="Img/Imagens Editadas/Grupo 46.png" alt="Imagem 1"  class="slide-imagem">
-                </div>
-                <div class="slide">
+           
                   <img src="Img/Imagens Editadas/Grupo 47.png" alt="Imagem 2" class="slide-imagem">
-                </div>
-                <div class="slide">
-                  <img src="Img/Imagens Editadas/Grupo 48.png" alt="Imagem 3"  class="slide-imagem">
-                </div>
-
-                <div class="slide">
-                    <img src="Img/Imagens Editadas/Grupo 49.png" alt="Imagem 3"  class="slide-imagem">
-                  </div>
-                <div class="slideshow-dots"></div>
-              </div>
+                
             <p class="texto">Juntos pela segurança: registre suas ocorrências
                 e faça a diferença em nossa comunidade.
             </p>
@@ -73,36 +59,23 @@
      
 </p>
 
-<img src="Img/Imagens/ampe_rogerio_lusa.png" alt="" class="bloco-1-imagem">
 
 
 <img src="Img/Icones/icons8_handshake_heart_512px.png" alt="" class="bloco-1-icone">
-
-
-
-
-
-
-
-
 
 </div>
 
 <div class="bloco-2">
          
-
     <p class="bloco-2-texto">
     
-        Cada informação compartilhada <br>
- faz a diferença na prevenção e resolução de incidentes. 
+      Cada informação compartilhada <br>
+      faz a diferença na prevenção e resolução de incidentes. 
 
          
     </p>
     
-    <img src="Img/Imagens Editadas/Grupo 35.png" alt="" class="bloco-2-imagem">
-    
-    
-    <img src="Img/Icones/icons8_crowd_512px.png" alt="" class="bloco-2-icone">
+  <img src="Img/Icones/icons8_crowd_512px.png" alt="" class="bloco-2-icone">
     
     
     

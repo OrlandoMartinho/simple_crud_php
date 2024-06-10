@@ -28,22 +28,8 @@
 
          </nav>
          <div class="contentor">
-            <div class="slideshow-container">
-                <div class="slide">
-                  <img src="Img/Imagens Editadas/Grupo 46.png" alt="Imagem 1"  class="slide-imagem">
-                </div>
-                <div class="slide">
-                  <img src="Img/Imagens Editadas/Grupo 47.png" alt="Imagem 2" class="slide-imagem">
-                </div>
-                <div class="slide">
-                  <img src="Img/Imagens Editadas/Grupo 48.png" alt="Imagem 3"  class="slide-imagem">
-                </div>
-
-                <div class="slide">
-                    <img src="Img/Imagens Editadas/Grupo 49.png" alt="Imagem 3"  class="slide-imagem">
-                  </div>
-                <div class="slideshow-dots"></div>
-              </div>
+       
+                  <img src="Img/Imagens Editadas/Grupo 46.png" alt="Imagem 1"  class="slide-imagem"> 
             <p class="texto">Juntos pela segurança: registre suas ocorrências
                 e faça a diferença em nossa comunidade.
             </p>

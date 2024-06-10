@@ -1,12 +1,21 @@
 table {
-    width: 100%;
+   
     border-collapse: collapse;
-    margin-top: 20px;
+    width: 100%;
+    margin-top: 8vh;
 }
 
-table th,
-table td {
-    border: 1px solid #ccc;
-    padding: 10px;
+th, td {
+    border: 1px solid black;
+    padding: 8px;
     text-align: left;
+    font-weight: normal;
 }
+
+th {
+    background-color: #f2f2f2;
+}
+
+
+
+

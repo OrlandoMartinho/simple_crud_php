@@ -57,7 +57,11 @@
 
 
     <div class="centro">
+    <div class="search-form">
+  <input type="text" id="search-input" placeholder="Digite o nome...">
+  <button onclick="searchTable()" id="search-button">Pesquisar</button>
 
+</div>
         
 <h3>Contactos recebidos</h3>
 

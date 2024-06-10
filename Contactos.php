@@ -19,7 +19,6 @@
             <ul>
                
             <li class="menu-bar"><a href="Contactos.php">Contactos</a></li>
-                <li class="menu-bar"><a href="Procedimento.php">Procedimentos</a></li>
                 <li class="menu-bar"><a href="Ficha-De-Ocorrência.php">Ficha de ocorrência</a></li>
                 <li class="menu-bar"><a href="Index.php">Página inicial</a></li>
                 
@@ -27,22 +26,9 @@
 
          </nav>
          <div class="contentor">
-            <div class="slideshow-container">
-                <div class="slide">
-                  <img src="Img/Imagens Editadas/Grupo 46.png" alt="Imagem 1"  class="slide-imagem">
-                </div>
-                <div class="slide">
-                  <img src="Img/Imagens Editadas/Grupo 47.png" alt="Imagem 2" class="slide-imagem">
-                </div>
-                <div class="slide">
-                  <img src="Img/Imagens Editadas/Grupo 48.png" alt="Imagem 3"  class="slide-imagem">
-                </div>
+            
+                  <img src="Img/Imagens Editadas/Grupo 47.png" alt="Imagem 3"  class="slide-imagem">
 
-                <div class="slide">
-                    <img src="Img/Imagens Editadas/Grupo 49.png" alt="Imagem 3"  class="slide-imagem">
-                  </div>
-                <div class="slideshow-dots"></div>
-              </div>
             <p class="texto">Juntos pela segurança: registre suas ocorrências
                 e faça a diferença em nossa comunidade.
             </p>

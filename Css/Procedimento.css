@@ -1,0 +1,66 @@
+.secao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 15vh;
+}
+
+.secao-imagem {
+  width: 300px;
+}
+
+.secao-titulo {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.secao-descricao {
+
+  font-size: 0.8rem;
+  color: #738290;
+}
+
+
+.secao-descricao li{
+  margin-top: 2vh;
+
+}
+
+.secao:nth-child(even) .secao-imagem {
+  margin-left: 20px;
+}
+
+.secao:nth-child(odd) .secao-imagem {
+  margin-right: 20px;
+}
+
+.secao:nth-child(even) .secao-descricao,
+.secao:nth-child(even) .secao-titulo {
+  text-align: left;
+  margin-left: 30vh;
+}
+
+.secao:nth-child(odd) .secao-descricao,
+.secao:nth-child(odd) .secao-titulo {
+  text-align: left;
+  margin-right: 30vh;
+}
+
+.secao:nth-child(4n+1) .secao-imagem {
+  margin-right: 20px;
+}
+
+.secao:nth-child(4n+2) .secao-imagem {
+  margin-left: 20px;
+}
+
+.secao:nth-child(4n+3) .secao-imagem {
+  margin-right: 20px;
+}
+
+.secao:nth-child(4n+4) .secao-imagem {
+  margin-left: 20px;
+}

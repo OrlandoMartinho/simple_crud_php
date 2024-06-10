@@ -153,7 +153,7 @@ garantindo a confidencialidade e segurança dos seus dados<br>
     <h3 class="titulo-menu">Menu</h3>
     <li><a href="#">> Página Inicial</a></li>
     <li><a href="#">> Ficha de ocorrÊncia</a></li>
-    <li><a href="#">> Procedimentos</a></li>
+
     <li><a href="#">> Contactos</a></li>
   </ul>
 
